@@ -1,0 +1,18 @@
+Wow, you actually decided to read this!
+
+This game is obviously a real but dumbed down of the Prime Simulator series on BronyCFW's YouTube channel! 
+
+The places you can shop are:
+
+- Asda
+- Wakefield Wines
+- Aldi
+- AliExpress
+- eBay
+- Amazon
+
+They must be entered in the way shown above
+
+If you want to contribute, or make mods and stuff like that, the code is all available on GitHub at https://github.com/wavetecrr/primesim !
+
+Of course, this is a Python game, so you need Python installed. Visual Studio also works.
